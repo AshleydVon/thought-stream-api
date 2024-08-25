@@ -1,0 +1,17 @@
+{
+  "name": "thought-stream-api",
+  "version": "1.0.0",
+  "description": "A scalable social network API built with Node.js, Express, MongoDB, and Mongoose, enabling users to share thoughts, react to friends' posts, and manage a dynamic friend list.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashleydvon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.5.4"
+  }
+}
